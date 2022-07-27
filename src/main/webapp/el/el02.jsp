@@ -12,7 +12,7 @@
 	\${10 eq 10}: ${10 eq 10} <br>
 	
 	\${"face" != "face"}: ${"face" != "face"} <br>
-	\${"face" ne "face"}: ${"face" ne "face"} <br>
+	<%-- \${"face" ne "face"}: ${"face" ne "face"} <br> --%>
 	
 	\${10 < 20}: ${10 < 20} <br>
 	\${10 lt 20}: ${10 lt 20} <br>
